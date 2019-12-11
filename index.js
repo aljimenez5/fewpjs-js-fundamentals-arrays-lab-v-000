@@ -5,7 +5,5 @@ const removeFirst = ["Milo", "Otis", "Garfield"];
 
 
 
-function append() {
-  append.push("Odie");
-}
+append.push("Odie");
   
