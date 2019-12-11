@@ -4,7 +4,5 @@ const removeLast = ["Milo", "Otis", "Garfield"];
 const removeFirst = ["Milo", "Otis", "Garfield"];
 
 
-function append () {
-  petsArray.push("Odie");
-  return petsArray;
-}
+
+petsArray.push("Odie");
