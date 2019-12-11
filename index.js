@@ -5,4 +5,7 @@ const removeFirst = ["Milo", "Otis", "Garfield"];
 
 
 
-petsArray.push("Odie");
+function append() {
+  append.push("Odie");
+}
+  
